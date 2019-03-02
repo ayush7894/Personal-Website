@@ -1,0 +1,269 @@
+.TopNav{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #6355fc;
+}
+.TopNav a{
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.TopNav a:hover {
+    background-color: #444547;
+}
+.Intro p{
+  display: block;
+  text-align: left;
+  letter-spacing: 1px;
+  word-spacing: 1px
+  font-family: sans-serif;
+  font-size: 35px;
+}
+.Overall{
+  margin-top:2px;
+  padding: 0.5px 0px 0px 0px;
+  height: 750px;
+  width: 1000px;
+  background-image: url(img3.jpg);
+  background-repeat:repeat;
+  opacity: 0.857;
+}
+
+.SideBar{
+  padding: 0px 0px 0px 0px;
+  height: 750px;
+  width: 264px;
+  margin-left:1000px;
+  background-color: #6355fc;
+}
+.SideBar img{
+  border-radius: 50%;
+  width: 165px;
+  image-orientation: center;
+  max-width: 100%;
+  height: auto;
+  position: relative;
+  top: 50px;
+  left: 50px;
+}
+.SideBar h2{
+  font-family: 'Alfa Slab One';
+  line-height:0.5;
+  padding: 50px 0px 0px 0px;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+.SideBar p{
+  padding:40px;
+  text-align: center;
+  line-height: 1.5;
+  padding-bottom: 30px;
+  font-family:'Questrial';
+  color: rgb(255, 255, 255);
+}
+.fa{
+  padding: 18px;
+  font-size: 30px;
+  width: 13px;
+  text-align: center;
+  background: #6355fc;
+  color: white;
+
+}
+.fa:hover{
+  opacity: 0.7;
+}
+.button{
+  margin-top: 40px;
+  margin-left: 60px;
+  background-color: rgb(255, 255, 255);
+  border: none;
+  color: #6355fc;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  text-decoration: none;
+}
+.About{
+  background-color: #e5e9ff;
+  height: 320px;
+  padding: 50px;
+
+}
+.About h1{
+  color: #6355fc;
+  padding-left: 100px;
+}
+.About h3{
+  padding-left: 100px;
+  color: #6355fc;
+  letter-spacing: 1px;
+  font-family: 'Raleway';
+}
+.About p{
+  padding top: 0px;
+  padding-left: 100px;
+  padding-right: 200px;
+  font-family: 'Raleway';
+  font-size: 18px;
+  line-height: 50px;
+}
+#parent_div{
+  padding-left: 140px;
+  padding-right: 100px;
+  padding-top: 25px;
+  width: 1020px;
+  height: 550px;
+  background-color:#eff5ff;
+}
+#Special{
+  color: #6355fc;
+  width: 100px;
+}
+#Special1{
+  color: #6355fc;
+  width: 300px;
+  font-family: 'Raleway';
+}
+.Education {
+  color: #626468;
+  float: left;
+  width: 350px;
+  font-style: 'Raleway';
+  font-size: 17px;
+  font-weight:lighter;
+  line-height: 20px;
+}
+.Education h4{
+  width: 100px;
+  color: #626468;
+}
+.Experience{
+  color: #626468;
+  padding-left: 140px;
+  padding-right: 0px;
+  padding-top: 0px;
+  margin-left: 540px;
+  font-size: 17px;
+  font-style: 'Raleway';
+  height: 550px;
+  background-color: #eff5ff;
+}
+.Skills{
+  padding-left: 140px;
+  padding-right: 100px;
+  padding-top: 25px;
+  width: 1020px;
+  height: 700px;
+  background-color:#e5e9ff;
+}
+.Skills h1{
+  font-family: 'Great Vibes';
+  letter-spacing: 2px;
+  color: #6355fc;
+}
+.Skills h3{
+  font-family: 'Raleway';
+  color: #6355fc;
+}
+.container {
+
+    width: 100%;
+    background-color: #ddd; /
+}
+
+.skills {
+    text-align: right;
+    font-size: 0px;
+    padding-right: 10px;
+    line-height: 10px;
+    color: white;
+}
+.Skills p{
+  color: #626468;
+}
+
+.C {
+  width: 90%;
+  background-color: #6355fc;
+  }
+.DataStructures {
+  width: 80%;
+  background-color: #6355fc;
+  }
+.Algorithms {
+  width: 76%;
+   background-color: #6355fc;
+   }
+.HTML {
+  width: 90%;
+  background-color: #6355fc;
+}
+.CSS {
+  width: 80%;
+  background-color: #6355fc;
+}
+.JavaScript {
+  width: 70%;
+   background-color: #6355fc;
+ }
+.Python {
+  width: 70%;
+   background-color: #6355fc;
+ }
+.Django {
+  width: 70%;
+  background-color: #6355fc;
+}
+.MATLAB {
+  width: 60%;
+   background-color: #6355fc;
+  }
+
+.College{
+  padding-left: 140px;
+  padding-right: 100px;
+  padding-top: 25px;
+  width: 1020px;
+  height: 430px;
+  background-color:#eff5ff;
+  color: #6355fc;
+
+}
+.College h1{
+  color: #6355fc;
+  text-align: center;
+}
+
+.College p{
+  color: black;
+  text-align: center;
+  padding-top: 20px;
+  font-family: 'Raleway';
+  font-size: 18px;
+  line-height: 50px;
+}
+#link{
+  text-align: center;
+  margin-left: 420px;
+}
+.Last{
+  padding-left: 140px;
+  padding-right: 100px;
+  padding-top: 25px;
+  width: 1020px;
+  height: 250px;
+  background-color:#e5e9ff;
+}
+.Last h1{
+  margin-top: 70px;
+  width: 200px;
+}
+.
